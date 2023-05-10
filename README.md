@@ -3,8 +3,9 @@
 This programme is built on Pyhton v3.11.2. To use this programme follow the instructions below. After you have installed the programme then visit https://pagalfree.com . Visit a page what looks like this :  
 ![Sample Image from where to get the website link](./images/website%20sample%20image.png) 
 
+***Note*** : This project is built on a windows 10 laptop. So, the path of the directory is set according to the windows 10. If you are using any other operating system This function may not work as intended or not work at all. If you are using windows 10 then you can use this programme without any problem.    
 ## Requirements   
-To use this programme in your computer you need to have Python3 installed on your computer. You can download the **Python3** from [here]('https://www.python.org/downloads/') if not downloaded. 
+To use this programme in your computer you need to have Python3 installed on your computer. You can download the **Python3** from [here](https://www.python.org/downloads/) if not downloaded. 
 You need to install few packages to use this programme on your computer.   
 1. **requests**
 2. **BeautifulSoup4**
@@ -40,3 +41,6 @@ and hit enter. It will ask you to enter the path. Either copy paste the path or 
 
 ## Author    
 Bishal Kar (Gain Prasad Kar) 
+
+***GitHub Profile*** : [Gain Prasad Kar](https://github.com/bishalkar10) 
+***Linkedin Profile*** : [Gain Prasad Kar](https://www.linkedin.com/in/bishalkar10/)

@@ -43,4 +43,3 @@ and hit enter. It will ask you to enter the path. Either copy paste the path or 
 Bishal Kar (Gain Prasad Kar) 
 
 ***GitHub Profile*** : [Gain Prasad Kar](https://github.com/bishalkar10) 
-***Linkedin Profile*** : [Gain Prasad Kar](https://www.linkedin.com/in/bishalkar10/)

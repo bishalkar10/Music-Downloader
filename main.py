@@ -80,6 +80,6 @@ if __name__ =="__main__" :
     # downloader.change_directory()
     print(downloader.directory)
 
-    url = 'https://pagalfree.com/music/the-monster-song-2022'
+    url = 'https://pagalfree.com/music/bang-bang1-2014'
     downloader.download_music(url) 
     

@@ -27,7 +27,7 @@ create isntance of *MusicDownloader* copy the url shown in the image :
 
 ```python
 downloader = MusicDownloader()  
-url = 'https://pagalfree.com/music/phone-mila-ke-2023.html' 
+url = 'https://pagalfree.com/music/bang-bang1-2014' 
 downloader.download_music(url) 
 ```   
 It will start downloading the music in the 'Music' folder. It is set as default. The download_music() takes two argument first one is the mandatory *url* and second one is the optional *music quality*. It can be only **low** or **high**. If you don't pass the second argument then it will download the music in low quality.   
